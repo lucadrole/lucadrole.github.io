@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:  # the website title (if blank, full name will be used instead)
+title: Luca Drole # the website title (if blank, full name will be used instead)
 first_name: Luca
 middle_name: 
 last_name: Drole
@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Luca s blog  # blog_name will be displayed in your blog page
+blog_name: Lucas blog  # blog_name will be displayed in your blog page
 blog_description: 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts

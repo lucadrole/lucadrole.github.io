@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Luca_Drole/Home"
+title                    : "lucadrole/home"
 title_separator          : "-"
 name                     : &name "Luca Drole"
 description              : &description "personal description"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.JPG"
   name             : "Luca Drole"
   pronouns         : # example: "she/her"  
-  bio              : "FIguring out Medical Imaging, Computer Vision, and Machine Learning"
+  bio              : "🇮🇹 🇨🇭 🇺🇸 🧀 Figuring out Medical Imaging, Computer Vision, and Machine Learning"
   location         : "Boston, MA, USA"
-  employer         : "Red Brick University"
+  employer         : "ETH Zurich"
   uri              : # URL
   email            : "lucadrole@gmail.com" 
 

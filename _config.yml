@@ -229,7 +229,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  wiki:
+    output: true
+    permalink: /:collection/:name/
 
 # These settings control how pages and collections are included in the site
 defaults:

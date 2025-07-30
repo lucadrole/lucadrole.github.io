@@ -1,8 +1,9 @@
 ---
-permalink: /home
+permalink: /
 title: "Hi there! 👋"
 author_profile: true
-redirect_from: 
+redirect_from:
+  - /home/
   - /about/
   - /about.html
 ---

@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 Hi! I'm Luca!
-I am a master's student in **Biomedical Engineering** at 🧀[ETH Zurich](https://ethz.ch/en.html). Before that, I completed my bachelor's degree at [Politecnico di Milano](https://www.polimi.it/en/).
-Currently I am spending some time in Boston at the [A. Martinos Center for Biomedical Imaging](https://www.martinos.org/) at the Laboratory for Ex vivo Modeling of Neuroanatomy ([LEMoN](https://lemon.martinos.org/)).
+I am a master's student in **Biomedical Engineering** at 🧀 ETH Zurich. Before that, I completed my bachelor's degree at Politecnico di Milano.
+Currently I am spending some time in Boston at the [**A. Martinos Center for Biomedical Imaging**](https://www.martinos.org/) at the Laboratory for Ex vivo Modeling of Neuroanatomy ([LEMoN](https://lemon.martinos.org/)).
 I am supervised by [Xiaoling Hu](https://huxiaoling.github.io/) and [Peirong Liu](https://peirong26.github.io/).
 
 Academic interests

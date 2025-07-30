@@ -23,6 +23,8 @@ main:
   - title: "CV"
     url: /files/CV_Drole_En.pdf
 
+  - title: "Wiki"
+    url: /wiki/
   # - title: "Blog"
   #   url: /year-archive/
 

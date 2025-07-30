@@ -10,7 +10,7 @@ redirect_from:
 Hi! I'm Luca!
 I am a master's student in **Biomedical Engineering** at **ETH Zurich**. Before that, I completed my bachelor's at **Politenico di Milano**
 Currently I am spending some time in Boston at the **A. Martinos Centre for Biomedical Imaging**.
-🇮🇹 🇨🇭 🇺🇸 🧀
+🧀
 
 Academic interests
 ======

@@ -17,7 +17,7 @@ I am supervised by [Xiaoling Hu](https://huxiaoling.github.io/) and [Peirong Liu
 
 Academic interests
 ======
-Broadly, my work and studies mainly revolve around:
+Broadly, my work and studies revolve around:
 - Medical imaging 🧠
 - Deep learning 🤖
 - Signal processing 📈

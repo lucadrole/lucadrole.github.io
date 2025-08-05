@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "lucadrole/home"
+title                    : "Luca Drole | Biomedical Engineering Researcher"
 title_separator          : "-"
 name                     : &name "Luca Drole"
-description              : &description "personal description"
+description              : &description "Biomedical Engineering researcher specializing in Medical Imaging, AI/ML, and Neuroimaging at ETH Zurich and Martinos Center"
 url                      : https://lucadrole.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.JPG"
   name             : "Luca Drole"
   pronouns         : # example: "she/her"  
-  bio              : "Figuring out Medical Imaging, Computer Vision, and Machine Learning"
-  location         : "Boston, MA, USA"
-  employer         : "ETH Zurich"
+  bio              : "Biomedical Engineering MS student at ETH Zurich | Medical Imaging & AI/ML Researcher at Martinos Center, Harvard Medical School"
+  location         : "Boston, MA & Zurich, CH"
+  employer         : "ETH Zurich & Martinos Center"
   uri              : # URL
   email            : "lucadrole@gmail.com" 
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there! 👋"
+title: "Welcome to My Research Portfolio"
 author_profile: true
 redirect_from:
   - /home/
@@ -8,26 +8,50 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Luca!
-I am a master's student in **Biomedical Engineering** at 🧀 **ETH Zurich**. Before that, I completed my bachelor's degree at **Politecnico di Milano**.
+Welcome! I'm Luca Drole, a passionate **Biomedical Engineering** master's student at **ETH Zurich** with a strong foundation from my bachelor's degree at **Politecnico di Milano**.
 
+## Current Research & Experience
 
-Currently I am spending some time in Boston at the [**A. Martinos Center for Biomedical Imaging**](https://www.martinos.org/) at the **Laboratory for Ex vivo Modeling of Neuroanatomy** ([LEMoN](https://lemon.martinos.org/)).
+I am currently conducting research at the prestigious [**A. Martinos Center for Biomedical Imaging**](https://www.martinos.org/) in Boston, where I work in the **Laboratory for Ex vivo Modeling of Neuroanatomy** ([LEMoN](https://lemon.martinos.org/)). Under the supervision of [Xiaoling Hu](https://huxiaoling.github.io/) and [Peirong Liu](https://peirong26.github.io/), I am advancing the frontiers of neuroimaging and computational anatomy.
 
-I am supervised by [Xiaoling Hu](https://huxiaoling.github.io/) and [Peirong Liu](https://peirong26.github.io/).
+## Research Interests & Expertise
 
-Academic interests
-======
-Broadly, my work and studies revolve around:
-- Medical imaging 🧠
-- Deep learning 🤖
-- Signal processing 📈
+My interdisciplinary research focuses on the intersection of engineering and medicine:
 
-More
-======
-Outside of my studies, I am really into history and linguistics.
+**🧠 Medical Imaging & Neuroimaging**
+- Advanced MRI techniques and image analysis
+- Computational neuroanatomy and brain modeling
+- Ex vivo imaging methodologies
 
-Thanks for visiting! Feel free to explore or [get in touch](mailto:lucadrole@gmail.com). ✉️
+**🤖 Artificial Intelligence & Machine Learning**
+- Deep learning for medical image analysis
+- Computer vision applications in healthcare
+- Neural network architectures for biomedical data
+
+**📈 Signal Processing & Data Analysis**
+- Biomedical signal processing
+- Statistical analysis of medical data
+- Algorithm development for clinical applications
+
+## Technical Skills
+
+- **Programming**: Python, MATLAB, C/C++, R
+- **AI/ML Frameworks**: TensorFlow, PyTorch, scikit-learn
+- **Medical Imaging**: ITK, VTK, 3D Slicer, FreeSurfer
+- **Data Analysis**: NumPy, SciPy, pandas, OpenCV
+- **Tools**: Git, Docker, Linux, High-Performance Computing
+
+## Personal Interests
+
+Beyond my technical pursuits, I have a deep fascination with **history** and **linguistics**, which enriches my analytical thinking and cross-cultural communication skills. This interdisciplinary perspective often brings unique insights to my research approach.
+
+## Vision & Goals
+
+I am committed to bridging the gap between advanced engineering methodologies and clinical applications, with the goal of developing innovative solutions that can improve patient care and advance our understanding of the human brain.
+
+---
+
+**Get in Touch**: I'm always interested in discussing research collaborations, academic opportunities, or innovative projects in biomedical engineering. Feel free to [contact me](mailto:lucadrole@gmail.com) or connect through my professional networks. ✉️
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!

@@ -1,64 +1,86 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience & Qualifications"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /experience
 ---
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Biomedical Engineering**, ETH Zurich, Switzerland (Expected 2025)
+  * Focus: Medical Imaging, Signal Processing, and Machine Learning
+  * Thesis: Advanced neuroimaging techniques for ex vivo brain analysis
+* **B.S. in Biomedical Engineering**, Politecnico di Milano, Italy (2023)
+  * Foundation in biomedical systems, signal processing, and medical device design
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Intern** (2024 - Present)
+  * A. Martinos Center for Biomedical Imaging, Harvard Medical School, Boston, MA
+  * Laboratory for Ex vivo Modeling of Neuroanatomy (LEMoN)
+  * Duties: Advanced MRI analysis, computational neuroanatomy, algorithm development
+  * Supervisors: Xiaoling Hu, Peirong Liu
+  * Focus: Ex vivo brain imaging, deep learning applications in neuroimaging
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Student Researcher** (2023 - 2024)
+  * ETH Zurich, Biomedical Engineering Department
+  * Projects: Medical image processing, machine learning for diagnostic applications
+  * Technologies: Python, MATLAB, deep learning frameworks
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**
+  * Python (Advanced): NumPy, SciPy, pandas, scikit-learn
+  * MATLAB (Advanced): Image Processing, Signal Processing Toolboxes
+  * C/C++ (Intermediate)
+  * R (Intermediate): Statistical analysis and data visualization
 
-Publications
+* **AI/Machine Learning**
+  * Deep Learning Frameworks: TensorFlow, PyTorch, Keras
+  * Computer Vision: OpenCV, scikit-image
+  * Medical Image Analysis: ITK, VTK, SimpleITK
+  * Neural Networks: CNNs, RNNs, transformer architectures
+
+* **Medical Imaging & Analysis**
+  * MRI Analysis: FreeSurfer, FSL, ANTs
+  * Image Segmentation and Registration
+  * 3D Visualization: 3D Slicer, ParaView
+  * DICOM processing and medical data standards
+
+* **Development & Tools**
+  * Version Control: Git, GitHub
+  * Containerization: Docker
+  * Operating Systems: Linux, macOS, Windows
+  * High-Performance Computing: SLURM, cluster computing
+  * Documentation: LaTeX, Markdown, Jupyter Notebooks
+
+Research Interests
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Medical Imaging**: Advanced MRI techniques, image reconstruction, multi-modal imaging
+* **Artificial Intelligence**: Deep learning for medical applications, computer-aided diagnosis
+* **Neuroimaging**: Brain connectivity analysis, structural and functional imaging
+* **Signal Processing**: Biomedical signal analysis, noise reduction, feature extraction
+* **Computational Medicine**: Algorithm development for clinical applications
+
+Languages
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* **Italian**: Native
+* **English**: Professional proficiency
+* **German**: Conversational (Swiss residency)
+
+Professional Development
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Conferences and workshops in biomedical engineering and medical imaging
+* Coursework in advanced mathematics, machine learning, and medical physics
+* Collaborative research experience in international academic environments
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Active participant in academic conferences and research presentations
+* Contributor to open-source medical imaging projects
+* Peer collaboration in interdisciplinary research teams

@@ -24,6 +24,7 @@ Broadly, my work and studies revolve around:
 
 More
 ======
+If you are interested in the ESOP scholarship at ETH, you can take a read at my experience with it [here](/esop-tips/).
 Outside of my studies, I am really into history and linguistics.
 
 Thanks for visiting! Feel free to explore or [get in touch](mailto:lucadrole@gmail.com). ✉️

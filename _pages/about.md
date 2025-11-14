@@ -14,6 +14,7 @@ I am a master's student in **Biomedical Engineering** at 🧀 **ETH Zurich**. Be
 I am currently doing my Master's thesis at the [**Biomedical Image Computing Group**](https://bmic.ee.ethz.ch/) at ETH.
 
 Previously, I spent some time in Boston at the [**A. Martinos Center for Biomedical Imaging**](https://www.martinos.org/) at the **Laboratory for Ex vivo Modeling of Neuroanatomy** ([LEMoN](https://lemon.martinos.org/)), supervised by [Xiaoling Hu](https://huxiaoling.github.io/) and [Peirong Liu](https://peirong26.github.io/).
+I have also previously worked at the [**Cardiac Magnetic Resonance Lab**](https://cmr.ethz.ch/) at ETH and the [**NECSTLab**](https://necst.it/) at Politecnico di Milano.
 
 Academic interests
 ======

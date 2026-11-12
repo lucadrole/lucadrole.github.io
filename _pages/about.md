@@ -14,7 +14,7 @@ I am a PhD student at the [**Institute for Computational Imaging and AI in Medic
 Before that, I did my Master's in **Biomedical Engineering** at 🧀 [**ETH Zurich**](https://ethz.ch/en.html), with my thesis at the [**Biomedical Image Computing Group**](https://bmic.ee.ethz.ch/). I completed my Bachelor's degree at [**Politecnico di Milano**](https://www.polimi.it/en).
 
 Previously, I spent some time in Boston at the [**A. Martinos Center for Biomedical Imaging**](https://www.martinos.org/) at the **Laboratory for Ex vivo Modeling of Neuroanatomy** ([LEMoN](https://lemon.martinos.org/)), supervised by [Xiaoling Hu](https://huxiaoling.github.io/) and [Peirong Liu](https://peirong26.github.io/).
-I have also previously worked at the [**Cardiac Magnetic Resonance Lab**](https://cmr.ethz.ch/) at ETH and the [**NECSTLab**](https://necst.it/) at Politecnico di Milano.
+I have also worked at the [**Cardiac Magnetic Resonance Lab**](https://cmr.ethz.ch/) at ETH and the [**NECSTLab**](https://necst.it/) at Politecnico di Milano.
 
 Academic interests
 ======

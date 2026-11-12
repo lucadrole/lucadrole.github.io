@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Luca_Drole.jpg"
+  avatar           : "Luca_Drole_square.jpg"
   name             : "Luca Drole"
   pronouns         : # example: "she/her"  
   bio              : "Figuring out Medical Imaging, Computer Vision, and Machine Learning"

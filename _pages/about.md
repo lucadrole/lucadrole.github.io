@@ -18,7 +18,7 @@ I have also worked at the [**Cardiac Magnetic Resonance Lab**](https://cmr.ethz.
 
 News
 ======
-- **Jul 2026** — Started my PhD at [CompAI](https://compai-lab.github.io/) (TUM), supervised by Prof. Julia Schnabel 🎉
+- **Jul 2026** - Started my PhD at [CompAI](https://compai-lab.github.io/) (TUM), supervised by Prof. Julia Schnabel 🎉
 
 Academic interests
 ======

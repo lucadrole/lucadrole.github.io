@@ -121,7 +121,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -189,6 +189,23 @@ exclude:
   - README
   - tmp
   - vendor
+  # Template sample/tooling files (not part of the live site)
+  - CONTRIBUTING.md
+  - CLAUDE.md
+  - docker-compose.yaml
+  - markdown_generator
+  - scripts
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - files/bibtex1.bib
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
 keep_files:
   - .git
   - .svn

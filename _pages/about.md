@@ -16,12 +16,16 @@ Before that, I did my Master's in **Biomedical Engineering** at 🧀 [**ETH Zuri
 Previously, I spent some time in Boston at the [**A. Martinos Center for Biomedical Imaging**](https://www.martinos.org/) at the **Laboratory for Ex vivo Modeling of Neuroanatomy** ([LEMoN](https://lemon.martinos.org/)), supervised by [Xiaoling Hu](https://huxiaoling.github.io/) and [Peirong Liu](https://peirong26.github.io/).
 I have also worked at the [**Cardiac Magnetic Resonance Lab**](https://cmr.ethz.ch/) at ETH and the [**NECSTLab**](https://necst.it/) at Politecnico di Milano.
 
+News
+======
+- **Jul 2026** — Started my PhD at [CompAI](https://compai-lab.github.io/) (TUM), supervised by Prof. Julia Schnabel 🎉
+
 Academic interests
 ======
-Broadly, my work and studies revolve around:
-- Medical imaging 🧠
-- Deep learning 🤖
-- Signal processing 📈
+Broadly, my work revolves around:
+- Quantitative MRI 🧲
+- MR image reconstruction 🔁
+- Machine learning for medical image understanding 🧠
 
 More
 ======

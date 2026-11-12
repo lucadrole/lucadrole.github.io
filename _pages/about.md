@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 Hi! I'm Luca!
-I am a master's student in **Biomedical Engineering** at 🧀 **ETH Zurich**. Before that, I completed my bachelor's degree at **Politecnico di Milano**.
+I am a PhD student at the [**Institute for Computational Imaging and AI in Medicine (CompAI)**](https://compai-lab.github.io/) at the [**Technical University of Munich (TUM)**](https://www.tum.de/en/), supervised by [Prof. Julia Schnabel](https://compai-lab.github.io/author/julia-a.-schnabel/). I am also affiliated with [**Helmholtz Munich**](https://www.helmholtz-munich.de/en). My research focuses on AI-enhanced quantitative MRI.
 
-I am currently doing my Master's thesis at the [**Biomedical Image Computing Group**](https://bmic.ee.ethz.ch/) at ETH.
+Before that, I did my Master's in **Biomedical Engineering** at 🧀 [**ETH Zurich**](https://ethz.ch/en.html), with my thesis at the [**Biomedical Image Computing Group**](https://bmic.ee.ethz.ch/). I completed my Bachelor's degree at [**Politecnico di Milano**](https://www.polimi.it/en).
 
 Previously, I spent some time in Boston at the [**A. Martinos Center for Biomedical Imaging**](https://www.martinos.org/) at the **Laboratory for Ex vivo Modeling of Neuroanatomy** ([LEMoN](https://lemon.martinos.org/)), supervised by [Xiaoling Hu](https://huxiaoling.github.io/) and [Peirong Liu](https://peirong26.github.io/).
-I have also previously at the [**Cardiac Magnetic Resonance Lab**](https://cmr.ethz.ch/) at ETH and the [**NECSTLab**](https://necst.it/) at Politecnico di Milano.
+I have also previously worked at the [**Cardiac Magnetic Resonance Lab**](https://cmr.ethz.ch/) at ETH and the [**NECSTLab**](https://necst.it/) at Politecnico di Milano.
 
 Academic interests
 ======
@@ -25,10 +25,10 @@ Broadly, my work and studies revolve around:
 
 More
 ======
-If you are interested in the ESOP scholarship at ETH, you can take a read at my experience with it [here](/esop-tips/).
+If you are interested in the ESOP scholarship at ETH, you can read about my experience with it [here](/esop-tips/).
 Outside of my studies, I am really into history and linguistics.
 
-Thanks for visiting! Feel free to explore or [get in touch](mailto:lucadrole@gmail.com). ✉️
+Thanks for visiting! Feel free to explore or [get in touch](mailto:luca.drole@tum.de). ✉️
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!

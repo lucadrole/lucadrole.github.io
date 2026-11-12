@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "Luca_Drole.jpg"
   name             : "Luca Drole"
   pronouns         : # example: "she/her"  
   bio              : "Figuring out Medical Imaging, Computer Vision, and Machine Learning"
-  location         : "Zurich, Switzerland"
-  employer         : "ETH Zurich"
+  location         : "Munich, Germany"
+  employer         : "Technical University of Munich"
   uri              : # URL
-  email            : "lucadrole@gmail.com" 
+  email            : "luca.drole@tum.de"
 
   # Academic websites
   academia         : # URL

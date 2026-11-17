@@ -247,6 +247,15 @@
     white-space: nowrap;
   }
 
+  // Let long biographic entries (location, employer) wrap instead of
+  // overflowing under the main content; hanging indent aligns wrapped
+  // lines with the text after the icon.
+  li.author__desktop {
+    white-space: normal;
+    padding-left: 2.25em;
+    text-indent: -2.25em;
+  }
+
   a {
     display: block;
     margin-bottom: 5px;

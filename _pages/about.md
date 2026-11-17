@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! I'm Luca!
-I am a PhD student at the [**Institute for Computational Imaging and AI in Medicine (CompAI)**](https://compai-lab.github.io/) at the [**Technical University of Munich (TUM)**](https://www.tum.de/en/), supervised by [Prof. Julia Schnabel](https://compai-lab.github.io/author/julia-a.-schnabel/). I am also affiliated with [**Helmholtz Munich**](https://www.helmholtz-munich.de/en). My research focuses on AI-enhanced quantitative MRI.
+I am a PhD student at the [**Institute for Computational Imaging and AI in Medicine (CompAI)**](https://compai-lab.github.io/) at the [**Technical University of Munich (TUM)**](https://www.tum.de/en/), supervised by [Prof. Julia Schnabel](https://compai-lab.github.io/author/julia-a.-schnabel/). I am also affiliated with [**Helmholtz Munich**](https://www.helmholtz-munich.de/en) and the [**Munich Center for Machine Learning (MCML)**](https://mcml.ai/). My research focuses on AI-enhanced quantitative MRI.
 
 Before that, I did my Master's in **Biomedical Engineering** at 🧀 [**ETH Zurich**](https://ethz.ch/en.html), with my thesis at the [**Biomedical Image Computing Group**](https://bmic.ee.ethz.ch/). I completed my Bachelor's degree at [**Politecnico di Milano**](https://www.polimi.it/en).
 
